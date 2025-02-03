@@ -1,10 +1,6 @@
 ## Hi there 👋 I am Yash Narang
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash8745&label=Profile%20views&color=0e75b6&style=flat" alt="yash8745" /> </p>
-<!--
-**Yash8745/Yash8745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
 - 🔭 **Current Focus**: Building and deploying Large Language Models (LLMs) in production environments  
 - 🌱 **Learning Journey**: Deepening my knowledge in RAG pipelines | MLOps best practices | scalable AI systems  
