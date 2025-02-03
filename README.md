@@ -10,7 +10,7 @@
 
 *P.S. Always happy to discuss AI/ML—reach out via email or LinkedIn!*  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yash8745)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash8745&theme=dark" alt="yash8745" /></p>
 
 
 
