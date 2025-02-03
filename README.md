@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Yash Narang
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash8745&label=Profile%20views&color=0e75b6&style=flat" alt="yash8745" /> </p>
 <!--
 **Yash8745/Yash8745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 Get in Touch: narangyash32@gmail.com 
 
 *P.S. Always happy to discuss AI/ML—reach out via email or LinkedIn!*  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash8745&" alt="yash8745" /></p>
 
 
 
