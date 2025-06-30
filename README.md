@@ -10,7 +10,6 @@
 
 *P.S. Always happy to discuss AI/ML—reach out via email or LinkedIn!*  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash8745&theme=dark" alt="yash8745" /></p>
 
 
 
