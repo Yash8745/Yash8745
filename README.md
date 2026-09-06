@@ -10,9 +10,10 @@
 
 
 ### Thoughts ^_^
--  Lately I have been a trying differnt coding harness like claude code, codex, opencode and pi.
--  Really liked the feel for claude code provide but I see it as bloated and it burns token's really fast. 
--  Pi on the other hand is a bit hard to setup and get a hang of it but is really token efficient especially with model like deepseek v4 pro. 
+-  Lately have been using pi coding agent + deepseek v4 flash, and the performance have been great.
+-  Have been exploring various automations with Hermes Agent, it is really coming together to reduce manual task I perform on my computer.
+-  Have been working on multiple automation projects also trying to build something that can be used by a lot of people.
+-  If you have any problem you are facing and would like me to build an automation for it feel free to reach out. 
 
   
 
