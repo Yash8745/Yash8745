@@ -13,7 +13,8 @@
 -  Lately have been using pi coding agent + deepseek v4 flash, and the performance have been great.
 -  Have been exploring various automations with Hermes Agent, it is really coming together to reduce manual task I perform on my computer.
 -  Have been working on multiple automation projects also trying to build something that can be used by a lot of people.
--  If you have any problem you are facing and would like me to build an automation for it feel free to reach out. 
+-  If you have any problem you are facing and would like me to build an automation for it feel free to reach out.
+-  Lately into chess
 
   
 
